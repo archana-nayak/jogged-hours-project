@@ -1,7 +1,7 @@
-# Basic Project
-## Basic Project Structure
+# Jogged Hours Project
+## A Project Structure To Store And Work On Joggers Data 
 
-*Default Structure for A Basic Project*
+*Default Structure for A Basic Joggers Project*
 
 **Java 8**
 
